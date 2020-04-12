@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-Demo : https://youtu.be/J6Po7uoH4oI/edit
+Demo : https://youtu.be/J6Po7uoH4oI/
+
 
 ## Getting Started
 
